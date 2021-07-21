@@ -31,7 +31,7 @@ Caso não esteja de acordo com estas diretivas, o USUÁRIO deve descontinuar o s
     2. ARMAZENAMENTO DOS DADOS E REGISTROS
         2.1. Os dados pessoais coletados e os registros de atividades devem ser armazenados em ambiente seguro e controlado pelo prazo mínimo estipulado, conforme a tabela abaixo:
 
-DADOS PESSOAIS
+### DADOS PESSOAIS
 PRAZO DE
 ARMAZENAMENTO
 FUNDAMENTO LEGAL
